@@ -1,4 +1,4 @@
-name: Build precompiled NIFs
+name: Validate precompiled NIFs
 
 on:
   push:
