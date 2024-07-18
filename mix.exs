@@ -5,7 +5,6 @@ defmodule ExRockTest.MixProject do
     [
       app: :ex_rock_test,
       version: "0.1.0",
-      elixir: "~> 1.16",
       start_permanent: Mix.env() == :prod,
       deps: deps()
     ]
